@@ -6,6 +6,7 @@ advanced method
 
 
 "edit locally"
+"edited globally"
 
 
 primary method
